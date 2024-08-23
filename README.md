@@ -8,4 +8,4 @@ This is made with:
 - Bootstrap framework
 
 Live Site URL:
-https://bj3rg.github.io/bjerg-website/
+https://bj3rg.github.io/MyPortfolio/
