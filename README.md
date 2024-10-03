@@ -1,6 +1,6 @@
 # bjerg-website
 
-### I Apologize for the looks of my own website. I will create a better one soon.
+### I apologize for the looks of my portfolio.
 
 This is made with:
 - HTML
